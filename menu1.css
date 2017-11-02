@@ -1,0 +1,186 @@
+/* CSS Document */
+.abc
+{
+	height:20px;
+	vertical-align:top;
+	text-align:center;
+	background-color:#0FF;
+	font-family:"Old English Text MT";
+	color:#000;
+	font-size:24px;
+	
+}
+
+.qwe
+{
+	width:51px; 
+	height:25px;
+	background-color:#090;
+}
+.zxc
+{
+	font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	
+}
+.asd
+{
+	font-family:"Comic Sans MS";
+	font-size:22px;
+	background-color:#6F0;
+}
+
+.bnm
+{
+	font-family:"Comic Sans MS";
+	font-size:16px;
+	background-color:#6F0;
+}
+
+.ash{
+font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	background-color:#F93;
+}
+
+.ashi{
+	font-family:"Comic Sans MS";
+	font-size:22px;
+	background-color:#F93;
+}
+
+.api{
+font-family:"Comic Sans MS";
+	font-size:16px;
+	background-color:#F93;
+}
+
+.divi
+{
+	font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	background-color:#6F0;
+}
+
+.iop
+{
+	font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	background-color:#fff;
+	}
+	
+.ash1{
+
+font-family:"Comic Sans MS";
+	font-size:22px;
+	background-color:#fff;
+}
+
+
+.ash2{
+font-family:"Comic Sans MS";
+	font-size:16px;
+	background-color:#fff;
+}
+
+.q
+{
+font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	background-color:#09F;	
+}
+
+.w{
+font-family:"Comic Sans MS";
+	font-size:22px;
+	background-color:#09f;
+}
+
+.e{
+font-family:"Comic Sans MS";
+	font-size:16px;
+	background-color:#09f;
+
+}
+
+
+
+.r{
+font-family:"precious";
+	font-size:24px;
+	text-align:center;
+	background-color:#F66;
+}
+
+
+
+.t{
+font-family:"Comic Sans MS";
+	font-size:22px;
+	background-color:#F66;
+}
+
+.y{
+font-family:"Comic Sans MS";
+	font-size:16px;
+	background-color:#F66;
+}
+.jkl{
+	font-size:20px;
+	font-style:inherit;
+	font-family:"Comic Sans MS", cursive;
+}
+.btn{
+	
+	
+	font-size:18px;
+	background-color:#0F0;
+	color:#006;
+	font-weight:bold;
+	border-radius:20px;
+}
+.abt{
+	font-family:"precious";
+font-size:25px;
+background-color:#F90;
+font-weight:bold;
+border-radius:20px;
+}
+
+.fade{
+opacity:0.5;
+}
+.fade:hover
+{
+opacity:1;
+}
+
+.qq{
+background-color:#309;
+color:#FFF;
+border-radius:10px;
+
+}
+
+.b
+{
+	background-color:#FFF;
+}
+
+.bn{
+	
+	
+	font-size:25px;
+	background-color:#0F0;
+	color:#006;
+	font-weight:bold;
+	border-radius:10px;
+}
+
+
+

@@ -1,0 +1,22 @@
+Bootstrap-
+mixture of css, html, js
+form elements, header, navigation
+glyphicon- these are the fonts with the icons(iconic fonts)
+
+GRID SYSTEM
+
+col-md-4  ->4 columns(max-12 columns)
+md-medium, xs-xtra small, lg-large, sm-small
+
+col-md-offset-4  - . jumps out 4 columns
+
+CONTAINERS-> Complete web form layout lies under container..
+
+Text-Styles
+
+text-danger
+text-warning
+text-info
+text-primary
+text-success	       
+
